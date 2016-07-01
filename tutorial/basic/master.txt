@@ -1,13 +1,26 @@
 1 Subhendu Chakraborty
 2
+3
+4Xiaohui
+5
 3 jinlei
 4
 5 Jiahao
 6
+<<<<<<< HEAD
+7 Zhiye
+8
+=======
 7
 8Maxwell Pinz 
+>>>>>>> 400b1c592e1f9a578db3bb69fdcb2c86a7d109ea
 9
 10
 11
 12
+<<<<<<< HEAD
 13 akbar
+=======
+13
+14 Clifford Truesdell
+>>>>>>> 23fca89a39cd65fb53c72b8e1efe17a40c135e26
