@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Xiaohui
+=======
+Maxwell Pinz
+
+>>>>>>> c72c8b5cb018b3e691f0b3a2d62e5c1786e10fb9
