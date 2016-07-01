@@ -4,10 +4,16 @@
 4Xiaohui
 5 Jiahao
 6
+<<<<<<< HEAD
+7 Zhiye
+8
+=======
 7
 8Maxwell Pinz 
+>>>>>>> 400b1c592e1f9a578db3bb69fdcb2c86a7d109ea
 9
 10
 11
 12
 13
+14 Clifford Truesdell
