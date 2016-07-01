@@ -4,8 +4,12 @@
 =======
 1 Subhendu Chakraborty
 2
+<<<<<<< HEAD
 >>>>>>> f8059d929a61955adba71e7b47e4a150f13d5cf7
 3
+=======
+3 jinlei
+>>>>>>> faddfee368fc433848ffa4cd96e2d5231df2f628
 4
 5 Jiahao
 6
