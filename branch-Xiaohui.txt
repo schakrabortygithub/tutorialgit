@@ -1,8 +1,0 @@
-Made a branch here in my branch. (Xiaohui)
-
-The related commands:
-Create branch: git branch George
-List branches: git branch -a
-Switch to branch: git checkout George
-Push new branch to remote and sets tracking: git push -u origin George
-reate branch/local/tracking/switch: git checkout --track origin/Xiaohui
